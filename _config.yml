@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 6
+  limit: 9
   exclude:
     archived: false
     forks: true
@@ -48,14 +48,14 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: 3D Modeling & 3D Printing
-    # web_url: https://github.com/topics/css
-    image_url: https://i.imgur.com/WNjgSHH.png
+  - name: 3D Modeling
+    # web_url: 
+    image_url: https://i.imgur.com/eFpPFfC.png
 
-  - name: Custom Computer Building
+  - name: Graphic Design
     # web_url:
-    image_url: https://i.imgur.com/V87pf0X.png
-
+    image_url: https://i.imgur.com/fgwFRFW.png
+    
   - name: Functional Programming
-    # web_url: https://github.com/topics/sass
-    image_url: https://i.imgur.com/J3YZnGc.png
+    # web_url: 
+    image_url: https://i.imgur.com/5Xr8nQC.png
